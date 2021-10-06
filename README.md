@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @prestesd. You can call me Dani.
-- 👀 I’m interested in learning and practicing my programming skills.
-- 🌱 I’m currently learning java, html, css, php, javascript
-- 💞️ I’m looking to collaborate on all above. I'm a beginner.
-- 📫 you can reach me on LinkedIn: https://www.linkedin.com/in/danieleprestesdaniel/
+<h2>Hello! I'm Dani!</h2>
 
-<!---
-prestesd/prestesd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p> I'm a chemistry teacher and a beginner in the world of programming. </p>
+<p> I'm very happy I've got into the technology world. I'm focused on studying Systems for Internet, which is also the name of the course I'm studying at <a href="http://www.poa.ifrs.edu.br/index.php?option=com_content&view=article&layout=edit&id=3206">IFRS.</a> I'm at my first semester!</p>
+<p> Nowadays I'm learning about <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b> PHP</b>. And other stuff, of course! :D </p>
