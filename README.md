@@ -1,7 +1,7 @@
 ## Hello! I'm Dani!
 
 I'm a software developer and UX advocate; and also a chemistry teacher with a Master's Degree! 
-I'm focused on studying Internet Systems, which is also the name of the course I'm studying at [IFRS](http://www.poa.ifrs.edu.br/index.php?option=com_content&view=article&layout=edit&id=3206).
+I'm focused on studying Internet Systems, which is also the name of the course I'm studying at [IFRS](https://www.poa.ifrs.edu.br/index.php/cursos-relevancia/ssi).
 
 ### Already worked with:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
